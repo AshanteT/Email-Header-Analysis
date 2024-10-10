@@ -17,5 +17,5 @@ The Email Header Analysis Lab is aimed to develop the skills required to effecti
 
 
 ### Steps
-Click on the link below to view the recording of my lab
+Click on the link to view the recording of my lab:
 https://youtu.be/85lkembMvXw
