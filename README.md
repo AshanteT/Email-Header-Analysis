@@ -10,4 +10,10 @@ The Email Header Analysis Lab is aimed to develop the skills required to effecti
 - Enhanced knowledge on tools used to gather information on sender IP addresses.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
+### Tools Used
+
+- mxtoolbox.com
+- Letdefend Lab
+
+
 - ### Steps
